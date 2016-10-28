@@ -1,0 +1,22 @@
+decade,award,count
+1950-59,Only Hugo,4
+1950-59,Only Nebula,1
+1950-59,Both,0
+1960-69,Only Hugo,4
+1960-69,Only Nebula,0
+1960-69,Both,2
+1970-79,Only Hugo,1
+1970-79,Only Nebula,1
+1970-79,Both,6
+1980-89,Only Hugo,2
+1980-89,Only Nebula,0
+1980-89,Both,3
+1990-99,Only Hugo,3
+1990-99,Only Nebula,1
+1990-99,Both,1
+2000-09,Only Hugo,0
+2000-09,Only Nebula,0
+2000-09,Both,1
+All,Only Hugo,14
+All,Only Nebula,3
+All,Both,13
