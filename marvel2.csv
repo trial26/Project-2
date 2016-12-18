@@ -1,0 +1,37 @@
+char1,char2,correlation
+Black Widow,Black Widow,0
+Black Widow,Captain America,4
+Black Widow,Hawkeye,3
+Black Widow,Hulk,2
+Black Widow,Iron Man,5
+Black Widow,Thor,2
+Captain America,Black Widow,4
+Captain America,Captain America,0
+Captain America,Hawkeye,3
+Captain America,Hulk,2
+Captain America,Iron Man,4
+Captain America,Thor,3
+Hawkeye,Black Widow,3
+Hawkeye,Captain America,3
+Hawkeye,Hawkeye,0
+Hawkeye,Hulk,2
+Hawkeye,Iron Man,3
+Hawkeye,Thor,3
+Hulk,Black Widow,2
+Hulk,Captain America,2
+Hulk,Hawkeye,2
+Hulk,Hulk,0
+Hulk,Iron Man,3
+Hulk,Thor,3
+Iron Man,Black Widow,5
+Iron Man,Captain America,4
+Iron Man,Hawkeye,3
+Iron Man,Hulk,3
+Iron Man,Iron Man,0
+Iron Man,Thor,2
+Thor,Black Widow,2
+Thor,Captain America,3
+Thor,Hawkeye,3
+Thor,Hulk,3
+Thor,Iron Man,2
+Thor,Thor,0
